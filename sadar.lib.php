@@ -2,8 +2,7 @@
 
     class SadarSMS {
 
-        static $baseUrl = "http://yooltech.com/sms/smsAPI";
-       //static $baseUrl = "http://yooltech.com/sadar/smsAPI";
+        static $baseUrl = "https://yooltech.com/sadar/portal/smsAPI";
 
 
         function __construct($apikey,$apitoken) {
