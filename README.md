@@ -1,6 +1,5 @@
 # Sadar
-How to Used<br>
-
+```
 <?php
 include_once ('sadar.lib.php'); // Import Gateway  File
 $apikey=""; // API KEY
@@ -22,3 +21,4 @@ print_r($result["response"]);
 
 
 ?>
+```
